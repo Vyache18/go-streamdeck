@@ -7,7 +7,7 @@ import (
 	"image/color"
 	"sync"
 
-	"github.com/karalabe/hid"
+	"github.com/bearsh/hid"
 )
 
 const vendorID = 0x0fd9
